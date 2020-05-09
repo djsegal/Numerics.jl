@@ -12,7 +12,6 @@ using Numerics
 
 You should now have the following packages available to you:
 
-+ CSV
 + DataFrames
 + DataStructures
 + LinearAlgebra
