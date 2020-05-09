@@ -10,7 +10,7 @@ To load use:
 using Numerics
 ```
 
-You should now have the following packages available to you:
+You should now have access to the following packages:
 
 + DataFrames
 + DataStructures
