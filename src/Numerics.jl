@@ -9,6 +9,5 @@ module Numerics
   @reexport using LinearAlgebra
   @reexport using Statistics
   @reexport using StatsBase
-  @reexport using Plots
 
 end

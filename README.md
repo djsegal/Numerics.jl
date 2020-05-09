@@ -19,4 +19,3 @@ You should now have the following packages available to you:
 + LinearAlgebra
 + Statistics
 + StatsBase
-+ Plots
