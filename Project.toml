@@ -1,4 +1,4 @@
-name = "NumericsBundle"
+name = "Numerics"
 uuid = "8b6e5320-caf2-4a3d-ab96-070b5f3e7804"
 authors = ["Dan Segal <dansegal2@gmail.com>"]
 version = "0.1.0"

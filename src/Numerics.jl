@@ -1,4 +1,4 @@
-module NumericsBundle
+module Numerics
 
   using Reexport
 
