@@ -16,5 +16,6 @@ You should now have the following packages available to you:
 + DataFrames
 + DataStructures
 + LinearAlgebra
++ AbstractFFTs
 + Statistics
 + StatsBase
