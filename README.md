@@ -15,7 +15,6 @@ You should now have the following packages available to you:
 + CSV
 + DataFrames
 + DataStructures
-+ FFTW
 + LinearAlgebra
 + Statistics
 + StatsBase
