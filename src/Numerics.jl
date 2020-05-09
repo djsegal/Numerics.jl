@@ -5,7 +5,6 @@ module Numerics
   @reexport using DataFrames
   @reexport using DataStructures
   @reexport using LinearAlgebra
-  @reexport using AbstractFFTs
   @reexport using Statistics
   @reexport using StatsBase
 
