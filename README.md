@@ -6,7 +6,7 @@
 To load use:
 
 ```julia
-] add https://github.com/djsegal/Numerics.jl
+] add Numerics
 using Numerics
 ```
 
