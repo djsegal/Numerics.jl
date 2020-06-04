@@ -17,3 +17,4 @@ You should now have access to the following packages:
 + LinearAlgebra
 + Statistics
 + StatsBase
++ Random
